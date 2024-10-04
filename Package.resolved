@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "793a7fac0bfc318e85994bf6900652e827aef33e",
+          "version": "5.4.1"
+        }
+      },
+      {
+        "package": "OrderedDictionary",
+        "repositoryURL": "https://github.com/lukaskubanek/OrderedDictionary.git",
+        "state": {
+          "branch": null,
+          "revision": "acb62df76052bef95a918d26f12bf4996b8587ea",
+          "version": "2.4.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

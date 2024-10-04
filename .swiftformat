@@ -1,0 +1,11 @@
+--swiftversion 5.4
+--indent 2
+--maxwidth 120
+--elseposition next-line
+--patternlet inline
+--stripunusedargs closure-only
+--wraparguments before-first
+--wraparguments before-first
+--header "//\n//  {file}\n//  PotentCodables\n//\n//  Copyright © {created.year} Outfox, inc.\n//\n//\n//  Distributed under the MIT License, See LICENSE for details.\n//"
+--enable blankLinesBetweenScopes
+--disable consecutiveBlankLines,blankLinesAtEndOfScope,blankLinesAtStartOfScope,redundantReturn,wrapMultilineStatementBraces
