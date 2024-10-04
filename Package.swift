@@ -28,7 +28,7 @@ let package = Package(
   dependencies: [
     .package(url: "https://github.com/attaswift/BigInt.git", from: "5.0.0"),
 //    .package(url: "https://github.com/lukaskubanek/OrderedDictionary.git", from: "2.2.2")
-    .package(url: "https://github.com/Habit21D/OrderedDictionary.git", from: "2.2.2")
+    .package(url: "https://github.com/Habit21D/OrderedDictionary.git", from: "2.2.3")
   ],
   targets: [
     .target(

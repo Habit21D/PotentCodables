@@ -12,11 +12,11 @@
       },
       {
         "package": "OrderedDictionary",
-        "repositoryURL": "https://github.com/lukaskubanek/OrderedDictionary.git",
+        "repositoryURL": "https://github.com/Habit21D/OrderedDictionary.git",
         "state": {
           "branch": null,
-          "revision": "acb62df76052bef95a918d26f12bf4996b8587ea",
-          "version": "2.4.0"
+          "revision": "8cbbf7d4954a86be541a00a06ca86f2de03a08cb",
+          "version": "2.2.3"
         }
       }
     ]
